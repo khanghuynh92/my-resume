@@ -1,0 +1,104 @@
+{
+  "basics": {
+    "name": "Khang Huynh",
+    "label": "Fullstacker",
+    "summary": "Pragmatic software developer with a passion for delivering <em>delightful</em> user experiences.Seeking to expand my skills and work on meaningful projects. I enjoy hacking on side projects, photography, and travelling.",
+    "website": "http://khanghuynh92.github.io",
+    "phone": "+84 0909050792",
+    "email": "khanghuynh92@gmail.com",
+    "location": {
+      "address": "from Sai Gon",
+      "postalCode": "700000",
+      "city": "Ho Chi Minh",
+      "countryCode": "VN"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "khanghuynh92",
+        "url": "https://github.com/khanghuynh92"
+      },
+      {
+        "network": "Twitter",
+        "username": "khanghuynh92",
+        "url": "https://twitter.com/khanghuynh92"
+      },
+      {
+        "network": "Facebook",
+        "username": "khanghuynh92",
+        "url": "https://www.facebook.com/profile.php?id=100008787426754"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Softfoundry Technology Pte Ltd",
+      "website": "http://www.softfoundry.com",
+      "position": "Web Fullstacker",
+      "startDate": "2014-07",
+      "summary": "Softfoundry is the world leader for High Definition Telepresence and Collaboration solutions for the managed and secured network used in Governments, enterprises, financial/insurance ,healthcare, education, carriers and ISP. Based on Patented advanced video communication technology supporting multi-HD,multi-codec, multi-applications carrier-class platform."
+    },
+    {
+      "company": "Gorillab",
+      "website": "https://gorillab.co/",
+      "position": "Freelancer",
+      "startDate": "2016-07",
+      "summary": "Freelancer web developer along with a great team"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Van Lang University",
+      "gpa": "6.8",
+      "startDate": "2010-07",
+      "endDate": "2014-07"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "intermediate",
+      "keywords": [
+        "JavaScript",
+        "HTML 5",
+        "CSS",
+        "LAMP",
+        "MVC",
+        "REST",
+        "PHP",
+        "Python",
+        "NodeJS"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "advanced",
+      "keywords": [
+        "Node.js",
+        "Angular.js",
+        "jQuery",
+        "Bootstrap",
+        "React.js"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "intermediate",
+      "keywords": [
+        "MySQL",
+        "NoSQL",
+        "ORM"
+      ]
+    },
+    {
+      "name": "Project",
+      "level": "beginner",
+      "keywords": [
+        "Agile",
+        "TFS",
+        "GitHub",
+        "Gitlab"
+      ]
+    }
+  ]
+}

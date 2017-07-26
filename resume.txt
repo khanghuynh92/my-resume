@@ -1,0 +1,72 @@
+Khang Huynh
+Email: khanghuynh92@gmail.com
+Tel: +84 0909050792
+Web: http://khanghuynh92.github.io
+================================================================================
+
+Pragmatic software developer with a passion for delivering <em>delightful</em> user experiences.Seeking to expand my skills and work on meaningful projects. I enjoy hacking on side projects, photography, and travelling.
+
+SKILLS -------------------------------------------------------------------------
+
+- Web Development: JavaScript HTML 5 CSS LAMP MVC REST PHP Python NodeJS 
+- JavaScript: Node.js Angular.js jQuery Bootstrap React.js 
+- Database: MySQL NoSQL ORM 
+- Project: Agile TFS GitHub Gitlab 
+
+EMPLOYMENT ---------------------------------------------------------------------
+
+Web Fullstacker, Softfoundry Technology Pte Ltd (2014-07 — Present)
+Softfoundry is the world leader for High Definition Telepresence and Collaboration solutions for the managed and secured network used in Governments, enterprises, financial/insurance ,healthcare, education, carriers and ISP. Based on Patented advanced video communication technology supporting multi-HD,multi-codec, multi-applications carrier-class platform.
+
+Freelancer, Gorillab (2016-07 — Present)
+Freelancer web developer along with a great team
+
+
+PROJECTS -----------------------------------------------------------------------
+
+VmeetPlus, Full-stack (2014-07 — 2015-09)
+
+Video chat, voice call and text chat with whiteboard and screen sharing features on website.
+
+Moodle plugin, Backend (2015-09 — 2016-06)
+
+Moodle plugin for video conference, live stream, vod, text chat
+
+Uteachme, Full-stack (2016-10 — Present)
+
+Online learning and teaching
+
+Vmeet Web Service, backend (2017-04 — Present)
+
+Providing api service served to end users or third-party apps/services
+
+SF Call Center, backend (2016-12 — Present)
+
+Providing solutions across multiple channels and devices for better customer experience
+
+Ishopmgt, Full-stack (??? — Present)
+
+System includes customer, product, shipper, order and package management, sale tracking, revenue reporting.. 
+
+Winwheel game, Full-stack (??? — Present)
+
+System providing lucky draw services for events.
+
+Reader daily, Backend (??? — Present)
+
+A customizable feeds reader on web, mobile, messenger bot and even terminal platforms.
+
+
+
+EDUCATION ----------------------------------------------------------------------
+
+Van Lang University (2010-07 — 2014-07)
+
+
+
+
+
+
+
+
+

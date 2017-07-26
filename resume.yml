@@ -1,0 +1,206 @@
+name: 'Khang Huynh'
+meta:
+  format: FRESH@0.6.0
+  version: 0.4.0
+info:
+  label: Fullstacker
+  characterClass: Programmer
+  brief: 'Pragmatic software developer with a passion for delivering <em>delightful</em> user experiences.Seeking to expand my skills and work on meaningful projects. I enjoy hacking on side projects, photography, and travelling.'
+  quote: 'Be the change you want to see in the world.'
+contact:
+  website: 'http://khanghuynh92.github.io'
+  phone: '+84 0909050792'
+  email: khanghuynh92@gmail.com
+location:
+  address: 'from Sai Gon'
+  city: 'Ho Chi Minh'
+  code: '700000'
+  country: VN
+projects:
+  -
+    title: VmeetPlus
+    category: 'Video Conference'
+    role: Full-stack
+    start: 2014-07
+    end: 2015-09
+    summary: 'Video chat, voice call and text chat with whiteboard and screen sharing features on website.'
+    keywords:
+      - HTML
+      - CSS
+      - Javascript
+      - Canvas
+      - LAMP
+      - PHP
+      - XMPP
+  -
+    title: 'Moodle plugin'
+    category: Education
+    role: Backend
+    start: 2015-09
+    end: 2016-06
+    summary: 'Moodle plugin for video conference, live stream, vod, text chat'
+    keywords:
+      - Php
+      - 'Moodle plugin'
+      - Javascript
+      - XMPP
+  -
+    title: Uteachme
+    category: Education
+    role: Full-stack
+    start: 2016-10
+    summary: 'Online learning and teaching'
+    keywords:
+      - Python
+      - React.js
+  -
+    title: 'Vmeet Web Service'
+    category: 'Web service'
+    role: backend
+    start: 2017-04
+    summary: 'Providing api service served to end users or third-party apps/services'
+    keywords:
+      - Node.js
+      - Restful
+      - Canssandara
+  -
+    title: 'SF Call Center'
+    category: 'Web service'
+    role: backend
+    start: 2016-12
+    summary: 'Providing solutions across multiple channels and devices for better customer experience'
+    keywords:
+      - Node.js
+      - Angular.js
+      - MongoDb
+  -
+    title: Ishopmgt
+    category: freelancer
+    role: Full-stack
+    summary: 'System includes customer, product, shipper, order and package management, sale tracking, revenue reporting.. '
+    url: 'http://ishopmgt.gorillab.co'
+    keywords:
+      - Angular.js
+      - Node.js
+      - Mongodb
+  -
+    title: 'Winwheel game'
+    category: freelancer
+    role: Full-stack
+    summary: 'System providing lucky draw services for events.'
+    url: 'http://winwheel.gorillab.co'
+    keywords:
+      - Angular.js
+      - Node.js
+      - Mongodb
+  -
+    title: 'Reader daily'
+    category: personal
+    role: Backend
+    url: 'https://github.com/gorillab/reader'
+    summary: 'A customizable feeds reader on web, mobile, messenger bot and even terminal platforms.'
+    keywords:
+      - Mongodb
+      - Node.js
+social:
+  -
+    label: GitHub
+    network: GitHub
+    user: khanghuynh92
+    url: 'https://github.com/khanghuynh92'
+  -
+    label: Twitter
+    network: Twitter
+    user: khanghuynh92
+    url: 'https://twitter.com/khanghuynh92'
+  -
+    label: Facebook
+    network: Facebook
+    user: khanghuynh92
+    url: 'https://www.facebook.com/profile.php?id=100008787426754'
+employment:
+  summary: '2+ years industry IT and software development experience.'
+  history:
+    -
+      employer: 'Softfoundry Technology Pte Ltd'
+      url: 'http://www.softfoundry.com'
+      position: 'Web Fullstacker'
+      summary: 'Softfoundry is the world leader for High Definition Telepresence and Collaboration solutions for the managed and secured network used in Governments, enterprises, financial/insurance ,healthcare, education, carriers and ISP. Based on Patented advanced video communication technology supporting multi-HD,multi-codec, multi-applications carrier-class platform.'
+      start: 2014-07
+      keywords:
+        - Agile
+        - Php
+        - Python
+        - Javascript
+        - NoSQL
+        - MySQL
+        - Linux
+        - Windows
+    -
+      employer: Gorillab
+      url: 'https://gorillab.co/'
+      position: Freelancer
+      summary: 'Freelancer web developer along with a great team'
+      start: 2016-07
+      keywords:
+        - Agile
+        - TFS
+        - Javascript
+education:
+  summary: ""
+  level: degree
+  degree: B.SE
+  history:
+    -
+      institution: 'Van Lang University'
+      title: 'Bachelor Information Technology'
+      url: 'http://www.vanlanguni.edu.vn/'
+      start: 2010-07
+      end: 2014-07
+      grade: '6.8'
+skills:
+  sets:
+    -
+      name: 'Web Development'
+      level: intermediate
+      skills:
+        - JavaScript
+        - 'HTML 5'
+        - CSS
+        - LAMP
+        - MVC
+        - REST
+        - PHP
+        - Python
+        - NodeJS
+    -
+      name: JavaScript
+      level: advanced
+      skills:
+        - Node.js
+        - Angular.js
+        - jQuery
+        - Bootstrap
+        - React.js
+    -
+      name: Database
+      level: intermediate
+      skills:
+        - MySQL
+        - NoSQL
+        - ORM
+    -
+      name: Project
+      level: beginner
+      skills:
+        - Agile
+        - TFS
+        - GitHub
+        - Gitlab
+  languages:
+    -
+      language: Vietnamese
+      level: Native
+    -
+      language: English
+      level: Moderate
