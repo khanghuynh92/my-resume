@@ -73,7 +73,7 @@
     {
       "title": "Ishopmgt",
       "category": "freelancer",
-      "role": "Full-stack",
+      "role": "Freelancer",
       "summary": "System includes customer, product, shipper, order and package management, sale tracking, revenue reporting.. ",
       "url": "http://ishopmgt.gorillab.co",
       "keywords": ["Angular.js", "Node.js", "Mongodb"]
@@ -81,15 +81,15 @@
     {
       "title": "Winwheel game",
       "category": "freelancer",
-      "role": "Full-stack",
+      "role": "Freelancer",
       "summary": "System providing lucky draw services for events.",
       "url": "http://winwheel.gorillab.co",
       "keywords": ["Angular.js", "Node.js", "Mongodb"]
     },
     {
       "title": "Reader daily",
-      "category": "personal",
-      "role": "Backend",
+      "category": "Freelancer",
+      "role": "Freelancer",
       "url": "https://github.com/gorillab/reader",
       "summary": "A customizable feeds reader on web, mobile, messenger bot and even terminal platforms.",
       "keywords": ["Mongodb", "Node.js"]

@@ -44,15 +44,15 @@ SF Call Center, backend (2016-12 — Present)
 
 Providing solutions across multiple channels and devices for better customer experience
 
-Ishopmgt, Full-stack (??? — Present)
+Ishopmgt, Freelancer (??? — Present)
 
 System includes customer, product, shipper, order and package management, sale tracking, revenue reporting.. 
 
-Winwheel game, Full-stack (??? — Present)
+Winwheel game, Freelancer (??? — Present)
 
 System providing lucky draw services for events.
 
-Reader daily, Backend (??? — Present)
+Reader daily, Freelancer (??? — Present)
 
 A customizable feeds reader on web, mobile, messenger bot and even terminal platforms.
 

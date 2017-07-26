@@ -51,17 +51,17 @@ Providing api service served to end users or third-party apps/services
 
 Providing solutions across multiple channels and devices for better customer experience
 
-### *Full-stack*, [Ishopmgt](http://ishopmgt.gorillab.co) (??? — Present)
+### *Freelancer*, [Ishopmgt](http://ishopmgt.gorillab.co) (??? — Present)
 
 
 System includes customer, product, shipper, order and package management, sale tracking, revenue reporting.. 
 
-### *Full-stack*, [Winwheel game](http://winwheel.gorillab.co) (??? — Present)
+### *Freelancer*, [Winwheel game](http://winwheel.gorillab.co) (??? — Present)
 
 
 System providing lucky draw services for events.
 
-### *Backend*, [Reader daily](https://github.com/gorillab/reader) (??? — Present)
+### *Freelancer*, [Reader daily](https://github.com/gorillab/reader) (??? — Present)
 
 
 A customizable feeds reader on web, mobile, messenger bot and even terminal platforms.
