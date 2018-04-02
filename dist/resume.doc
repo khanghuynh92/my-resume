@@ -512,13 +512,13 @@
           </w:rPr>
           <w:t>+84 0909050792<w:br/></w:t>
         </w:r>
-        <w:hlink w:dest="http://khanghuynh92.github.io">
+        <w:hlink w:dest="http://khanghuynh92.github.io/">
           <w:r wsp:rsidRPr="003876BF">
             <w:rPr>
               <w:rStyle w:val="Hyperlink"/>
               <w:sz w:val="16"/>
             </w:rPr>
-            <w:t>http://khanghuynh92.github.io</w:t>
+            <w:t>http://khanghuynh92.github.io/</w:t>
           </w:r>
         </w:hlink>
       </w:p>
@@ -633,7 +633,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>JavaScript  HTML 5  CSS  LAMP  MVC  REST  PHP  Python  NodeJS</w:t>
+            <w:t>JavaScript  HTML  CSS  LAMP  Bootstrap  MVC  REST  PHP  Python  NodeJS  Docker  Redis  Memcached  Elastic Search  Nginx  Microservices</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -692,7 +692,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>Node.js  Angular.js  jQuery  Bootstrap  React.js</w:t>
+            <w:t>NodeJs  jQuery  AngularJs  ReactJs</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -751,7 +751,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>MySQL  NoSQL  ORM</w:t>
+            <w:t>MySQL  Mongodb  Redis  Elastic Search  Memcached</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -773,7 +773,7 @@
               <w:noProof/>
             </w:rPr>
             <w:pict>
-              <v:rect id="_x0000_s1028" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:38.25pt;z-index:1" fillcolor="#5CB85C"  strokeweight="0"/>
+              <v:rect id="_x0000_s1028" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:38.25pt;z-index:1" fillcolor="#F1C40F"  strokeweight="0"/>
             </w:pict>
           </w:r>
           <w:r>
@@ -781,7 +781,7 @@
               <w:noProof/>
             </w:rPr>
             <w:pict>
-              <v:rect id="_x0000_s1026" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:30pt;z-index:2" fillcolor="#FFFFFF" strokeweight="0"/>
+              <v:rect id="_x0000_s1026" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:16pt;z-index:2" fillcolor="#FFFFFF" strokeweight="0"/>
             </w:pict>
           </w:r>
         </w:p>
@@ -826,6 +826,7 @@
 
 
 
+      
       
       
       
@@ -989,7 +990,7 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Full-stack, </w:t>
+        <w:t>Web Developer, </w:t>
       </w:r>
       
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
@@ -1028,7 +1029,7 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Backend, </w:t>
+        <w:t>Web Developer, </w:t>
       </w:r>
       
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
@@ -1071,7 +1072,7 @@
       </w:r>
       
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:t>Uteachme</w:t>
+          <w:t>TeleTeach</w:t>
         </w:r>
       
       <w:r wsp:rsidR="00EA0B64">
@@ -1090,7 +1091,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Online learning and teaching</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>E-Learning Solution, fulfill the needs for diversified network teaching and mobile learning.</w:t></w:r>
     </w:p>
 
 
@@ -1106,7 +1107,7 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>backend, </w:t>
+        <w:t>Backend, </w:t>
       </w:r>
       
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
@@ -1145,7 +1146,7 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>backend, </w:t>
+        <w:t>Backend, </w:t>
       </w:r>
       
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
@@ -1184,7 +1185,7 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Freelancer, </w:t>
+        <w:t>Full-stack, </w:t>
       </w:r>
       <w:hlink w:dest="http://ishopmgt.gorillab.co">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
@@ -1226,7 +1227,7 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Freelancer, </w:t>
+        <w:t>Full-stack, </w:t>
       </w:r>
       <w:hlink w:dest="http://winwheel.gorillab.co">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
@@ -1268,7 +1269,7 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Freelancer, </w:t>
+        <w:t>Full-stack, </w:t>
       </w:r>
       <w:hlink w:dest="https://github.com/gorillab/reader">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
@@ -1363,6 +1364,7 @@
 
 </wx:sub-section>
 
+      
       
       
       
