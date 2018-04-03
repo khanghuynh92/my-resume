@@ -33,7 +33,7 @@
       "category": "Opensource",
       "role": "Fullstack Web Developer",
       "url": "https://github.com/gorillab/reader",
-      "summary": "Research and develop system with Node.js/Javscript, Worked with web spider, scrawler to gather technologies news. Used microservices archiecture to scale web application.",
+      "summary": "Research and develop system with Node.js/Javascript, Worked with web spider, scrawler to gather technologies news. Used microservices archiecture to scale web application.",
       "keywords": ["Mongodb", "Node.js", "Docker", "Microservices", "Bootstrap", "Webpack", "Cronjob", "React", "REST", "Nginx", "Web Srawler"]
     },
     {
@@ -198,7 +198,7 @@
 
 "interests": [
   {
-    "name": "photography"
+    "name": "coding in my freetime"
   },
   {
     "name": "travelling"
