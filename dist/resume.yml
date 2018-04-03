@@ -5,7 +5,7 @@ meta:
 info:
   label: Fullstacker
   characterClass: Programmer
-  brief: 'Pragmatic software developer with a passion for delivering <em>delightful</em> user experiences.Seeking to expand my skills and work on meaningful projects. I enjoy hacking on side projects, photography, and travelling.'
+  brief: 'I''m passion about building awesome products, also rock in Javasript/Node.js and hacking on side projects.'
   quote: 'Be the change you want to see in the world.'
 contact:
   website: 'http://khanghuynh92.github.io/'
@@ -18,53 +18,45 @@ location:
   country: VN
 projects:
   -
-    title: VmeetPlus
-    category: 'Video Conference'
-    role: 'Web Developer'
-    start: 2014-07
-    end: 2015-09
-    summary: 'Video chat, voice call and text chat with whiteboard and screen sharing features on website.'
+    title: 'Reader daily'
+    category: Opensource
+    role: 'Fullstack Web Developer'
+    url: 'https://github.com/gorillab/reader'
+    summary: 'Research and develop system with Node.js/Javscript, Worked with web spider, scrawler to gather technologies news. Used microservices archiecture to scale web application.'
     keywords:
-      - HTML
-      - CSS
-      - Javascript
-      - Canvas
-      - LAMP
-      - PHP
-      - XMPP
-  -
-    title: 'Moodle plugin'
-    category: Education
-    role: 'Web Developer'
-    start: 2015-09
-    end: 2016-06
-    summary: 'Moodle plugin for video conference, live stream, vod, text chat'
-    keywords:
-      - PHP
-      - 'Moodle plugin'
-      - Javascript
-      - XMPP
-      - LAMP
+      - Mongodb
+      - Node.js
+      - Docker
+      - Microservices
+      - Bootstrap
+      - Webpack
+      - Cronjob
+      - React
+      - REST
+      - Nginx
+      - 'Web Srawler'
   -
     title: TeleTeach
     category: Education
-    role: Full-stack
+    role: 'Fullstack Web Developer'
     start: 2016-10
-    summary: 'E-Learning Solution, fulfill the needs for diversified network teaching and mobile learning.'
+    url: 'http://teleteach.sfvmeet.com:5000'
+    summary: 'Worked with team and staff members to develop and design elearning system, using heavy back end skills to improve scalability system.'
     keywords:
       - Python
-      - ReactJs
+      - React
       - Bootstrap
       - Mysql
       - Redis
       - REST
       - 'Elastic Search'
+      - Docker
   -
     title: 'Vmeet Web Service'
     category: 'Web service'
     role: Backend
     start: 2017-04
-    summary: 'Providing api service served to end users or third-party apps/services'
+    summary: 'Developed JSON RESTful API service for web / mobile apps(iOS/Android), including OAuth, user profiles, contact list, friendship, meeting management, etc'
     keywords:
       - Node.js
       - Restful
@@ -76,58 +68,35 @@ projects:
       - REST
       - 'Elastic Search'
   -
-    title: 'SF Call Center'
-    category: 'Web service'
-    role: Backend
-    start: 2016-12
-    summary: 'Providing solutions across multiple channels and devices for better customer experience'
-    keywords:
-      - NodeJs
-      - AngularJs
-      - MongoDb
-      - REST
-      - Bootstrap
-      - 'Elastic Search'
-  -
     title: Ishopmgt
-    category: Freelancer
-    role: Full-stack
-    summary: 'System includes customer, product, shipper, order and package management, sale tracking, revenue reporting.. '
+    category: 'Fullstack Web Developer'
+    role: 'Fullstack Web Developer'
+    summary: 'I was responsible for both front and back end development for their system to manage importing products lifecycle and customer information'
     url: 'http://ishopmgt.gorillab.co'
     keywords:
-      - AngularJs
-      - NodeJs
+      - Node.js
+      - Angular
       - MySql
       - REST
+      - HTML
+      - CSS
   -
-    title: 'Winwheel game'
-    category: Freelancer
-    role: Full-stack
-    summary: 'System providing lucky draw services for events.'
-    url: 'http://winwheel.gorillab.co'
+    title: VmeetPlus
+    category: 'Video Conference'
+    role: 'Fullstack Web Developer'
+    start: 2014-07
+    end: 2015-09
+    summary: 'Used the standard suite of web technologies including HTML, Javsacript, CSS, Ajax, JSON and XML, Server side technologies used are PHP, intergrate voice, video call rely on WebRTC. Worked with HTML5 Canvas to render 2d shapes and and bitmap images.'
     keywords:
-      - AngularJs
-      - NodeJs
-      - Mongodb
+      - Javascript
+      - HTML
+      - CSS
       - Canvas
-      - REST
-  -
-    title: 'Reader daily'
-    category: Opensource
-    role: Full-stack
-    url: 'https://github.com/gorillab/reader'
-    summary: 'A customizable feeds reader on web, mobile, messenger bot and even terminal platforms.'
-    keywords:
-      - Mongodb
-      - NodeJs
-      - Docker
-      - Microservices
+      - LAMP
+      - PHP
+      - XMPP
+      - JSON
       - Bootstrap
-      - Cronjob
-      - React
-      - REST
-      - Nginx
-      - 'Web Srawler'
 social:
   -
     label: GitHub
@@ -150,14 +119,12 @@ employment:
     -
       employer: 'Softfoundry Technology Pte Ltd'
       url: 'http://www.softfoundry.com'
-      position: 'Web Fullstacker'
-      summary: 'Softfoundry is the world leader for High Definition Telepresence and Collaboration solutions for the managed and secured network used in Governments, enterprises, financial/insurance ,healthcare, education, carriers and ISP. Based on Patented advanced video communication technology supporting multi-HD,multi-codec, multi-applications carrier-class platform.'
+      position: 'Fullstack Web Developer'
       start: 2014-07
     -
       employer: Gorillab
       url: 'https://gorillab.co/'
       position: Freelancer
-      summary: 'Freelancer web developer along with a great team'
       start: 2016-07
 education:
   summary: ""
@@ -170,58 +137,77 @@ education:
       url: 'http://www.vanlanguni.edu.vn/'
       start: 2010-07
       end: 2014-07
-      grade: '7.4'
+      grade: '6.8'
 skills:
   sets:
     -
-      name: 'Web Development'
+      name: Frontend
       level: intermediate
       skills:
         - JavaScript
+        - Angular
+        - React
         - HTML
         - CSS
-        - LAMP
         - Bootstrap
-        - MVC
-        - REST
-        - PHP
-        - Python
-        - NodeJS
-        - Docker
-        - Redis
-        - Memcached
-        - 'Elastic Search'
-        - Nginx
-        - Microservices
+        - Sass
+        - Less
+        - EsLint
+        - Webpack
     -
-      name: JavaScript
+      name: Backend
       level: advanced
       skills:
-        - NodeJs
-        - jQuery
-        - AngularJs
-        - ReactJs
-    -
-      name: Database
-      level: intermediate
-      skills:
+        - Node.js
+        - Python
+        - PHP
         - MySQL
-        - Mongodb
+        - MariaDB
+        - MongoDB
         - Redis
-        - 'Elastic Search'
         - Memcached
+        - 'Elastic Search'
+        - Apache
+        - Nginx
+        - REST
+        - Microservices
     -
-      name: Project
+      name: Devops
+      level: beginner
+      skills:
+        - Docker
+        - Travis
+        - 'Bash Scripts'
+    -
+      name: 'Project management'
       level: intermediate
       skills:
-        - Agile
+        - Git
         - TFS
-        - GitHub
-        - Gitlab
-  languages:
-    -
-      language: Vietnamese
-      level: Native
-    -
-      language: English
-      level: Moderate
+        - Bitbucket
+references:
+  -
+    name: 'Phat Pham'
+    flavor: professional
+    private: true
+    contact:
+      -
+        label: Mobile
+        flavor: phone
+        value: '+841225151812'
+      -
+        label: 'Work email'
+        flavor: email
+        value: phat.pham9@gmail.com
+languages:
+  -
+    language: Vietnamese
+    level: Native
+  -
+    language: English
+    level: Moderate
+interests:
+  -
+    name: photography
+  -
+    name: travelling

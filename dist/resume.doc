@@ -624,7 +624,7 @@
               <w:b/>
               <w:caps/>
             </w:rPr>
-            <w:t>Web Development</w:t>
+            <w:t>Frontend</w:t>
           </w:r>
         </w:p>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
@@ -633,7 +633,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>JavaScript  HTML  CSS  LAMP  Bootstrap  MVC  REST  PHP  Python  NodeJS  Docker  Redis  Memcached  Elastic Search  Nginx  Microservices</w:t>
+            <w:t>JavaScript  Angular  React  HTML  CSS  Bootstrap  Sass  Less  EsLint  Webpack</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -683,7 +683,7 @@
               <w:b/>
               <w:caps/>
             </w:rPr>
-            <w:t>JavaScript</w:t>
+            <w:t>Backend</w:t>
           </w:r>
         </w:p>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
@@ -692,7 +692,66 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>NodeJs  jQuery  AngularJs  ReactJs</w:t>
+            <w:t>Node.js  Python  PHP  MySQL  MariaDB  MongoDB  Redis  Memcached  Elastic Search  Apache  Nginx  REST  Microservices</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:trPr>
+        <w:trHeight w:val="882"/>
+      </w:trPr>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="828" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:rPr>
+              <w:noProof/>
+            </w:rPr>
+            <w:pict>
+              <v:rect id="_x0000_s1028" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:38.25pt;z-index:1" fillcolor="#5CB85C"  strokeweight="0"/>
+            </w:pict>
+          </w:r>
+          <w:r>
+            <w:rPr>
+              <w:noProof/>
+            </w:rPr>
+            <w:pict>
+              <v:rect id="_x0000_s1026" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:30pt;z-index:2" fillcolor="#FFFFFF" strokeweight="0"/>
+            </w:pict>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8748" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p>
+          <w:pPr>
+            <w:spacing w:before="120"/>
+          </w:pPr>
+          <w:r>
+            <w:rPr>
+              <w:sz w:val="24"/>
+              <w:b/>
+              <w:caps/>
+            </w:rPr>
+            <w:t>Devops</w:t>
+          </w:r>
+        </w:p>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:rPr>
+              <w:caps/>
+              <w:spacing w:val="22"/>
+            </w:rPr>
+            <w:t>Docker  Travis  Bash Scripts</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -742,7 +801,7 @@
               <w:b/>
               <w:caps/>
             </w:rPr>
-            <w:t>Database</w:t>
+            <w:t>Project management</w:t>
           </w:r>
         </w:p>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
@@ -751,66 +810,7 @@
               <w:caps/>
               <w:spacing w:val="22"/>
             </w:rPr>
-            <w:t>MySQL  Mongodb  Redis  Elastic Search  Memcached</w:t>
-          </w:r>
-        </w:p>
-      </w:tc>
-    </w:tr>
-
-
-    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
-      <w:trPr>
-        <w:trHeight w:val="882"/>
-      </w:trPr>
-      <w:tc>
-        <w:tcPr>
-          <w:tcW w:w="828" w:type="dxa"/>
-          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
-        </w:tcPr>
-        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
-          <w:r>
-            <w:rPr>
-              <w:noProof/>
-            </w:rPr>
-            <w:pict>
-              <v:rect id="_x0000_s1028" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:38.25pt;z-index:1" fillcolor="#F1C40F"  strokeweight="0"/>
-            </w:pict>
-          </w:r>
-          <w:r>
-            <w:rPr>
-              <w:noProof/>
-            </w:rPr>
-            <w:pict>
-              <v:rect id="_x0000_s1026" style="position:absolute;left:0;text-align:left;margin-left:20.6pt;margin-top:1.4pt;width:7.15pt;height:16pt;z-index:2" fillcolor="#FFFFFF" strokeweight="0"/>
-            </w:pict>
-          </w:r>
-        </w:p>
-      </w:tc>
-      <w:tc>
-        <w:tcPr>
-          <w:tcW w:w="8748" w:type="dxa"/>
-          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
-        </w:tcPr>
-        <w:p>
-          <w:pPr>
-            <w:spacing w:before="120"/>
-          </w:pPr>
-          <w:r>
-            <w:rPr>
-              <w:sz w:val="24"/>
-              <w:b/>
-              <w:caps/>
-            </w:rPr>
-            <w:t>Project</w:t>
-          </w:r>
-        </w:p>
-        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
-          <w:r>
-            <w:rPr>
-              <w:caps/>
-              <w:spacing w:val="22"/>
-            </w:rPr>
-            <w:t>Agile  TFS  GitHub  Gitlab</w:t>
+            <w:t>Git  TFS  Bitbucket</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -878,7 +878,7 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Web Fullstacker, </w:t>
+        <w:t>Fullstack Web Developer, </w:t>
       </w:r>
       <w:hlink w:dest="http://www.softfoundry.com">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
@@ -904,7 +904,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Softfoundry is the world leader for High Definition Telepresence and Collaboration solutions for the managed and secured network used in Governments, enterprises, financial/insurance ,healthcare, education, carriers and ISP. Based on Patented advanced video communication technology supporting multi-HD,multi-codec, multi-applications carrier-class platform.</w:t></w:r>
+      
     </w:p>
 
 
@@ -946,7 +946,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Freelancer web developer along with a great team</w:t></w:r>
+      
     </w:p>
 
 
@@ -990,13 +990,16 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Web Developer, </w:t>
+        <w:t>Fullstack Web Developer, </w:t>
       </w:r>
-      
+      <w:hlink w:dest="https://github.com/gorillab/reader">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:t>VmeetPlus</w:t>
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Reader daily</w:t>
         </w:r>
-      
+      </w:hlink>
       <w:r wsp:rsidR="00EA0B64">
         <w:tab/>
       </w:r>
@@ -1004,7 +1007,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>2014-07 — 2015-09</w:t>
+        <w:t>??? — Present</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -1013,7 +1016,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Video chat, voice call and text chat with whiteboard and screen sharing features on website.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Research and develop system with Node.js/Javscript, Worked with web spider, scrawler to gather technologies news. Used microservices archiecture to scale web application.</w:t></w:r>
     </w:p>
 
 
@@ -1029,52 +1032,16 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Web Developer, </w:t>
+        <w:t>Fullstack Web Developer, </w:t>
       </w:r>
-      
+      <w:hlink w:dest="http://teleteach.sfvmeet.com:5000">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:t>Moodle plugin</w:t>
-        </w:r>
-      
-      <w:r wsp:rsidR="00EA0B64">
-        <w:tab/>
-      </w:r>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:rPr>
-          <w:rStyle w:val="FromTo"/>
-        </w:rPr>
-        <w:t>2015-09 — 2016-06</w:t>
-      </w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Moodle plugin for video conference, live stream, vod, text chat</w:t></w:r>
-    </w:p>
-
-
-  </wx:sub-section>
-
-
-  <wx:sub-section>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
-      <w:pPr>
-        <w:pStyle w:val="Heading2"/>
-        <w:tabs>
-          <w:tab w:val="right" w:pos="9360"/>
-        </w:tabs>
-      </w:pPr>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Full-stack, </w:t>
-      </w:r>
-      
-        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
           <w:t>TeleTeach</w:t>
         </w:r>
-      
+      </w:hlink>
       <w:r wsp:rsidR="00EA0B64">
         <w:tab/>
       </w:r>
@@ -1091,7 +1058,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>E-Learning Solution, fulfill the needs for diversified network teaching and mobile learning.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Worked with team and staff members to develop and design elearning system, using heavy back end skills to improve scalability system.</w:t></w:r>
     </w:p>
 
 
@@ -1130,7 +1097,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Providing api service served to end users or third-party apps/services</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Developed JSON RESTful API service for web / mobile apps(iOS/Android), including OAuth, user profiles, contact list, friendship, meeting management, etc</w:t></w:r>
     </w:p>
 
 
@@ -1146,46 +1113,7 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Backend, </w:t>
-      </w:r>
-      
-        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:t>SF Call Center</w:t>
-        </w:r>
-      
-      <w:r wsp:rsidR="00EA0B64">
-        <w:tab/>
-      </w:r>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:rPr>
-          <w:rStyle w:val="FromTo"/>
-        </w:rPr>
-        <w:t>2016-12 — Present</w:t>
-      </w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Providing solutions across multiple channels and devices for better customer experience</w:t></w:r>
-    </w:p>
-
-
-  </wx:sub-section>
-
-
-  <wx:sub-section>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
-      <w:pPr>
-        <w:pStyle w:val="Heading2"/>
-        <w:tabs>
-          <w:tab w:val="right" w:pos="9360"/>
-        </w:tabs>
-      </w:pPr>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Full-stack, </w:t>
+        <w:t>Fullstack Web Developer, </w:t>
       </w:r>
       <w:hlink w:dest="http://ishopmgt.gorillab.co">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
@@ -1211,7 +1139,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>System includes customer, product, shipper, order and package management, sale tracking, revenue reporting..</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>I was responsible for both front and back end development for their system to manage importing products lifecycle and customer information</w:t></w:r>
     </w:p>
 
 
@@ -1227,16 +1155,13 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Full-stack, </w:t>
+        <w:t>Fullstack Web Developer, </w:t>
       </w:r>
-      <w:hlink w:dest="http://winwheel.gorillab.co">
+      
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:rPr>
-            <w:rStyle w:val="Hyperlink"/>
-          </w:rPr>
-          <w:t>Winwheel game</w:t>
+          <w:t>VmeetPlus</w:t>
         </w:r>
-      </w:hlink>
+      
       <w:r wsp:rsidR="00EA0B64">
         <w:tab/>
       </w:r>
@@ -1244,7 +1169,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>??? — Present</w:t>
+        <w:t>2014-07 — 2015-09</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -1253,49 +1178,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>System providing lucky draw services for events.</w:t></w:r>
-    </w:p>
-
-
-  </wx:sub-section>
-
-
-  <wx:sub-section>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
-      <w:pPr>
-        <w:pStyle w:val="Heading2"/>
-        <w:tabs>
-          <w:tab w:val="right" w:pos="9360"/>
-        </w:tabs>
-      </w:pPr>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Full-stack, </w:t>
-      </w:r>
-      <w:hlink w:dest="https://github.com/gorillab/reader">
-        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:rPr>
-            <w:rStyle w:val="Hyperlink"/>
-          </w:rPr>
-          <w:t>Reader daily</w:t>
-        </w:r>
-      </w:hlink>
-      <w:r wsp:rsidR="00EA0B64">
-        <w:tab/>
-      </w:r>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:rPr>
-          <w:rStyle w:val="FromTo"/>
-        </w:rPr>
-        <w:t>??? — Present</w:t>
-      </w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>A customizable feeds reader on web, mobile, messenger bot and even terminal platforms.</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Used the standard suite of web technologies including HTML, Javsacript, CSS, Ajax, JSON and XML, Server side technologies used are PHP, intergrate voice, video call rely on WebRTC. Worked with HTML5 Canvas to render 2d shapes and and bitmap images.</w:t></w:r>
     </w:p>
 
 
@@ -1371,8 +1254,119 @@
       
       
       
+      <wx:sub-section>
+
+<wx:pBdrGroup>
+  <wx:borders>
+    <wx:top wx:val="solid" wx:bdrwidth="15" wx:space="1" wx:color="EEEEEE"/>
+  </wx:borders>
+  <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00693C5A" wsp:rsidP="00C146CA">
+    <w:pPr>
+      <w:pStyle w:val="Heading1"/>
+      <w:ind w:left="-720"/>      
+    </w:pPr>
+    <w:r>
+      <w:pict>
+        <w:binData w:name="wordml://03000015.png" xml:space="preserve">iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAABEpJREFUeNrsV2tz2kYUXQmBBQghZDAYZFsmxo/4VbfOtNPp3+9MmzpxqF8EAyYEbCxjLITEQwipuwIMxIChqSeZqTT6sivp7rnnnj13hRmGAb6nCwff2WUBsgBZgCxAFiALkAXIAmQBsgBZgCxA/zNAxFdHkEppQdL7Y4c7EA578W8GKJ0+LSjDU3cS/uZ1iHhZQHpNqqlf/nTjDrcr4POXGqLapUg3DB20hXQi5N9h/xUkbLp/+9vz3y+F9pezDt/Gr7uB4QKmjuJF2YCPYr/sBvEXE7WHoewEhvXuR94aslgZuvVA1D8Hn6gPmURRezmGBi/t+vjPZHWKr2zM3s8zF25mUhvpk1R1uhzaYuLiVv+vGNLKheyna0FudqSMYzaSmo8GtVSq3IBDz8pvB0v4CLjHbwuKDjDK7agpTR3Y2KBXFytSs91BhtudLBuOvlp0ETMAUktn8fP75tjk7MzemxG10IunfyRFFXQU7cz/dZKpj+ESc3Jb+2t+YpptLxXjF4lKy8zGHYqEwzSJUpcgYWXZjE+Q1Ij8tNvEFUID4W5uBXEpU2r00Ng966t8J4z4OZ97qKtGPX/+Tl3/6aldEU84TycRGsw1H/1xe/HxMXGfqfXia9XC6SV7GKMH08jFUwL6zhndhuQ9JC+upUd2WjURuMMMDOalmCAnFU7PrkqtlnB5xvj3w8QkUd+kilABgPDyhwNoQDnxASkDSofb9NoAMGThU2k4jawC18focGyZBvpVrthEzCys73LIBJBVlh9NgI7sbIdp6B1GNffxYeIuy5dE5H7OcCyCD9Ti/GOpYdZiZ5cPxQIUWkIq5vvSeW/CdfjWfngFadPy5aqJPrgZ8q5thSjsyY6jo+us3SxhQZxQMrnaQGnMeTjXgOucmLWA6xGtXPw4B3QVJWeIheMPt+YWaCh96aCJBxnBBxTNoyG9thOqvL2pm1Y5/ygaat7tuBfVdksCgBnHkKaZtBKEo1+M7HXPddS6IirwrneMQGt2hkoNkoq5Tel0XlRURLON9HRjkLEY70QsCYV8fzGWdDzbXAkCDtsQF9q63WB8NKjkZH2oz9YQJmLOTXW/xsng6nJf4m4HlFm73agCsNCt0PIGX0uXXUtcP0y5oT4LiPKQxF1Ta1bzNRDtVo1gN/bZwZdqqaOjugowJnKww400GR9FAkEBspTVAY/3hLx5EBmSx71ZaJudniRqzs/A5ED9+rIwxhU14fJORoHoEDf2SMOxHhhXr96O7a9SJllGwiSZCDOxly2uhdxwSqtkj85utBEOfpyoIMlQCyv+CQ1ydTmEdjt0mpOc+CQM8iHTpTDP8obv2dYxzqlv8oWSaG43wsMdHvDkMyfbzPt4xxsx0hOILgVNc+85Nei41AinnrWXYS4fv7cbIac6bWf/PsmX27P1smm7PcBsLmqeX+EXWMcspwlVTCczQkVuGV/T7b/l9Y8AAwCSXjehR+kgEQAAAABJRU5ErkJggg==</w:binData>
+        <v:shape id="_x0000_i1026" type="#_x0000_t75" style="width:31.5pt;height:31.5pt">
+          <v:imagedata src="wordml://03000015.png" o:title="fa-bicycle"/>
+        </v:shape>
+      </w:pict>
+    </w:r>
+    <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      <w:t>INTERESTS</w:t>
+    </w:r>
+  </w:p>
+</wx:pBdrGroup>
+
+  <wx:sub-section>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>photography</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>travelling</w:t>
+      </w:r>
+    </w:p>
+
+  </wx:sub-section>
+</wx:sub-section>
+
+      <wx:sub-section>
+
+<wx:pBdrGroup>
+  <wx:borders>
+    <wx:top wx:val="solid" wx:bdrwidth="15" wx:space="1" wx:color="EEEEEE"/>
+  </wx:borders>
+  <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00693C5A" wsp:rsidP="00C146CA">
+    <w:pPr>
+      <w:pStyle w:val="Heading1"/>
+      <w:ind w:left="-720"/>      
+    </w:pPr>
+    <w:r>
+      <w:pict>
+        <w:binData w:name="wordml://03000016.png" xml:space="preserve">iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAArlJREFUeNrsl91T2kAQwEMIIYQQPhoDWlBaYDogOD7UGTu2//9THS3WMopQNUoIUSEkIcZ8NJcp0I44ggTIQ+7lcpvM3i+7e7t7PtM0ITcNGHLZ8IA8IA/IA/KAPCAPyAPygFw2EKcUGXz9tHknGAiORTYyWTqBvk2Pz5meWmgcHt8KY00+fC3/uZiEV+Wy7mUb0Pgj6WQsFvBBkCl3GjVuZTHU42TdmnCqkP9U3v1SSQetlX7fulkRkNYRHq3JT0Rxe02mSECkqQNjJUDGtSTbYRNL/ZUQqH1WVEVYAZDWrrF9yxIwEU2NQkpWwIRi5NKBhPr3c+7JMk84m8sOdT2wom7zROHl5iHtvvqLAdEToAuVzaE1DIbhn4CQjKNitwd+Gg3jOLJwIOWievIAjEO+L5ZSIz0a2xE08PDEN6r86Gt/iN4qlNLkolym3Z4c3kggdMLrpdy/27Q4cVKm1Qdco3p0ITuRqbW7+vEZI+kTXgViO3vlxGtWNuR242edGZiQP1o+qFBzWkht/p5IgwSpaWjAHngyv70GcpQuctzcMSQr6jNZKL1b/EjiM/gbR5BFHnsYnYnG8lqzL4IZIxJu6IeUxtG1nTwjVBpxAxC2SYXs+EAwGHIDkBWpU++zFCDhjJXs8kvEXQFk3A3sYkvQHxBXAMEhvw1iGM66DPb53oSvce0+SGXBUMxJoCC9/+3gayYyMxNbq/d0UIOpTcJJIFVi+B4vyLbZDbUrarMdG5zO4c60Hzhm3bAGkCldnVaHsgHz44gB5SxCr6eyG0n0ZTViRwL+CgSJ6fjnq/bjQhtOxCg6GSUJcgynivzlea0lWbbE3m3vb8cdAnrBhQrbvmqxXP/xdd8FEjt7pQQCLRTof7I21xUVWX+uyk/E06ViZuoO1qmr9LgXE2TVHLYEM7TSo/FHgAEAC/8S0Mwjye0AAAAASUVORK5CYII=</w:binData>
+        <v:shape id="_x0000_i1026" type="#_x0000_t75" style="width:31.5pt;height:31.5pt">
+          <v:imagedata src="wordml://03000016.png" o:title="fa-bicycle"/>
+        </v:shape>
+      </w:pict>
+    </w:r>
+    <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+      <w:t>REFERENCES</w:t>
+    </w:r>
+  </w:p>
+</wx:pBdrGroup>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Phat Pham</w:t>
+      </w:r>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>??? — Present</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
       
-      
+    </w:p>
+  </wx:sub-section>
+
+
+</wx:sub-section>
+
 
 
       <w:sectPr wsp:rsidR="00B43FDC" wsp:rsidRPr="000A3AF0" wsp:rsidSect="001B7422">

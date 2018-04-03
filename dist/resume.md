@@ -4,67 +4,52 @@ Email: khanghuynh92@gmail.com
 Tel: +84 0909050792
 Web: http://khanghuynh92.github.io/
 
-Pragmatic software developer with a passion for delivering <em>delightful</em> user experiences.Seeking to expand my skills and work on meaningful projects. I enjoy hacking on side projects, photography, and travelling.
+I'm passion about building awesome products, also rock in Javasript/Node.js and hacking on side projects.
 
 ## SKILLS
 
-  - Web Development: JavaScript HTML CSS LAMP Bootstrap MVC REST PHP Python NodeJS Docker Redis Memcached Elastic Search Nginx Microservices 
-  - JavaScript: NodeJs jQuery AngularJs ReactJs 
-  - Database: MySQL Mongodb Redis Elastic Search Memcached 
-  - Project: Agile TFS GitHub Gitlab 
+  - Frontend: JavaScript Angular React HTML CSS Bootstrap Sass Less EsLint Webpack 
+  - Backend: Node.js Python PHP MySQL MariaDB MongoDB Redis Memcached Elastic Search Apache Nginx REST Microservices 
+  - Devops: Docker Travis Bash Scripts 
+  - Project management: Git TFS Bitbucket 
 
 ## EMPLOYMENT
 
-### *Web Fullstacker*, [Softfoundry Technology Pte Ltd](http://www.softfoundry.com) (2014-07 — Present)
+### *Fullstack Web Developer*, [Softfoundry Technology Pte Ltd](http://www.softfoundry.com) (2014-07 — Present)
 
-Softfoundry is the world leader for High Definition Telepresence and Collaboration solutions for the managed and secured network used in Governments, enterprises, financial/insurance ,healthcare, education, carriers and ISP. Based on Patented advanced video communication technology supporting multi-HD,multi-codec, multi-applications carrier-class platform.
+
 
 ### *Freelancer*, [Gorillab](https://gorillab.co/) (2016-07 — Present)
 
-Freelancer web developer along with a great team
+
 
 
 ## PROJECTS
 
-### *Web Developer*, VmeetPlus (2014-07 — 2015-09)
+### *Fullstack Web Developer*, [Reader daily](https://github.com/gorillab/reader) (??? — Present)
 
 
-Video chat, voice call and text chat with whiteboard and screen sharing features on website.
+Research and develop system with Node.js/Javscript, Worked with web spider, scrawler to gather technologies news. Used microservices archiecture to scale web application.
 
-### *Web Developer*, Moodle plugin (2015-09 — 2016-06)
-
-
-Moodle plugin for video conference, live stream, vod, text chat
-
-### *Full-stack*, TeleTeach (2016-10 — Present)
+### *Fullstack Web Developer*, [TeleTeach](http://teleteach.sfvmeet.com:5000) (2016-10 — Present)
 
 
-E-Learning Solution, fulfill the needs for diversified network teaching and mobile learning.
+Worked with team and staff members to develop and design elearning system, using heavy back end skills to improve scalability system.
 
 ### *Backend*, Vmeet Web Service (2017-04 — Present)
 
 
-Providing api service served to end users or third-party apps/services
+Developed JSON RESTful API service for web / mobile apps(iOS/Android), including OAuth, user profiles, contact list, friendship, meeting management, etc
 
-### *Backend*, SF Call Center (2016-12 — Present)
-
-
-Providing solutions across multiple channels and devices for better customer experience
-
-### *Full-stack*, [Ishopmgt](http://ishopmgt.gorillab.co) (??? — Present)
+### *Fullstack Web Developer*, [Ishopmgt](http://ishopmgt.gorillab.co) (??? — Present)
 
 
-System includes customer, product, shipper, order and package management, sale tracking, revenue reporting.. 
+I was responsible for both front and back end development for their system to manage importing products lifecycle and customer information
 
-### *Full-stack*, [Winwheel game](http://winwheel.gorillab.co) (??? — Present)
-
-
-System providing lucky draw services for events.
-
-### *Full-stack*, [Reader daily](https://github.com/gorillab/reader) (??? — Present)
+### *Fullstack Web Developer*, VmeetPlus (2014-07 — 2015-09)
 
 
-A customizable feeds reader on web, mobile, messenger bot and even terminal platforms.
+Used the standard suite of web technologies including HTML, Javsacript, CSS, Ajax, JSON and XML, Server side technologies used are PHP, intergrate voice, video call rely on WebRTC. Worked with HTML5 Canvas to render 2d shapes and and bitmap images.
 
 
 
@@ -82,5 +67,18 @@ A customizable feeds reader on web, mobile, messenger bot and even terminal plat
 
 
 
+
+## REFERENCES
+
+### *Phat Pham*
+Mobile: +841225151812
+Work email: phat.pham9@gmail.com
+
+
+## INTERESTS
+
+- PHOTOGRAPHY
+
+- TRAVELLING
 
 

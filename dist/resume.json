@@ -7,7 +7,7 @@
     "phone": "+84 0909050792",
     "email": "khanghuynh92@gmail.com",
     "name": "Khang Huynh",
-    "summary": "Pragmatic software developer with a passion for delivering <em>delightful</em> user experiences.Seeking to expand my skills and work on meaningful projects. I enjoy hacking on side projects, photography, and travelling.",
+    "summary": "I'm passion about building awesome products, also rock in Javasript/Node.js and hacking on side projects.",
     "profiles": [
       {
         "network": "GitHub",
@@ -30,79 +30,95 @@
     {
       "company": "Softfoundry Technology Pte Ltd",
       "website": "http://www.softfoundry.com",
-      "position": "Web Fullstacker",
-      "startDate": "2014-07",
-      "summary": "Softfoundry is the world leader for High Definition Telepresence and Collaboration solutions for the managed and secured network used in Governments, enterprises, financial/insurance ,healthcare, education, carriers and ISP. Based on Patented advanced video communication technology supporting multi-HD,multi-codec, multi-applications carrier-class platform."
+      "position": "Fullstack Web Developer",
+      "startDate": "2014-07"
     },
     {
       "company": "Gorillab",
       "website": "https://gorillab.co/",
       "position": "Freelancer",
-      "startDate": "2016-07",
-      "summary": "Freelancer web developer along with a great team"
+      "startDate": "2016-07"
     }
   ],
   "education": [
     {
       "institution": "Van Lang University",
-      "gpa": "7.4",
+      "gpa": "6.8",
       "startDate": "2010-07",
       "endDate": "2014-07"
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Frontend",
       "level": "intermediate",
       "keywords": [
         "JavaScript",
+        "Angular",
+        "React",
         "HTML",
         "CSS",
-        "LAMP",
         "Bootstrap",
-        "MVC",
-        "REST",
-        "PHP",
+        "Sass",
+        "Less",
+        "EsLint",
+        "Webpack"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "advanced",
+      "keywords": [
+        "Node.js",
         "Python",
-        "NodeJS",
-        "Docker",
+        "PHP",
+        "MySQL",
+        "MariaDB",
+        "MongoDB",
         "Redis",
         "Memcached",
         "Elastic Search",
+        "Apache",
         "Nginx",
+        "REST",
         "Microservices"
       ]
     },
     {
-      "name": "JavaScript",
-      "level": "advanced",
+      "name": "Devops",
+      "level": "beginner",
       "keywords": [
-        "NodeJs",
-        "jQuery",
-        "AngularJs",
-        "ReactJs"
+        "Docker",
+        "Travis",
+        "Bash Scripts"
       ]
     },
     {
-      "name": "Database",
+      "name": "Project management",
       "level": "intermediate",
       "keywords": [
-        "MySQL",
-        "Mongodb",
-        "Redis",
-        "Elastic Search",
-        "Memcached"
-      ]
-    },
-    {
-      "name": "Project",
-      "level": "intermediate",
-      "keywords": [
-        "Agile",
+        "Git",
         "TFS",
-        "GitHub",
-        "Gitlab"
+        "Bitbucket"
       ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "photography"
+    },
+    {
+      "name": "travelling"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Vietnamese",
+      "level": "Native"
+    },
+    {
+      "language": "English",
+      "level": "Moderate"
     }
   ]
 }
