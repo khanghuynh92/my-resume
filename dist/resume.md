@@ -2,15 +2,15 @@ Khang Huynh
 ============
 Email: khanghuynh92@gmail.com
 Tel: +84 0909050792
-Web: http://khanghuynh92.github.io
+Web: http://khanghuynh92.github.io/
 
 Pragmatic software developer with a passion for delivering <em>delightful</em> user experiences.Seeking to expand my skills and work on meaningful projects. I enjoy hacking on side projects, photography, and travelling.
 
 ## SKILLS
 
-  - Web Development: JavaScript HTML 5 CSS LAMP MVC REST PHP Python NodeJS 
-  - JavaScript: Node.js Angular.js jQuery Bootstrap React.js 
-  - Database: MySQL NoSQL ORM 
+  - Web Development: JavaScript HTML CSS LAMP Bootstrap MVC REST PHP Python NodeJS Docker Redis Memcached Elastic Search Nginx Microservices 
+  - JavaScript: NodeJs jQuery AngularJs ReactJs 
+  - Database: MySQL Mongodb Redis Elastic Search Memcached 
   - Project: Agile TFS GitHub Gitlab 
 
 ## EMPLOYMENT
@@ -26,20 +26,20 @@ Freelancer web developer along with a great team
 
 ## PROJECTS
 
-### *Full-stack*, VmeetPlus (2014-07 — 2015-09)
+### *Web Developer*, VmeetPlus (2014-07 — 2015-09)
 
 
 Video chat, voice call and text chat with whiteboard and screen sharing features on website.
 
-### *Backend*, Moodle plugin (2015-09 — 2016-06)
+### *Web Developer*, Moodle plugin (2015-09 — 2016-06)
 
 
 Moodle plugin for video conference, live stream, vod, text chat
 
-### *Full-stack*, Uteachme (2016-10 — Present)
+### *Full-stack*, TeleTeach (2016-10 — Present)
 
 
-Online learning and teaching
+E-Learning Solution, fulfill the needs for diversified network teaching and mobile learning.
 
 ### *Backend*, Vmeet Web Service (2017-04 — Present)
 
@@ -51,17 +51,17 @@ Providing api service served to end users or third-party apps/services
 
 Providing solutions across multiple channels and devices for better customer experience
 
-### *Freelancer*, [Ishopmgt](http://ishopmgt.gorillab.co) (??? — Present)
+### *Full-stack*, [Ishopmgt](http://ishopmgt.gorillab.co) (??? — Present)
 
 
 System includes customer, product, shipper, order and package management, sale tracking, revenue reporting.. 
 
-### *Freelancer*, [Winwheel game](http://winwheel.gorillab.co) (??? — Present)
+### *Full-stack*, [Winwheel game](http://winwheel.gorillab.co) (??? — Present)
 
 
 System providing lucky draw services for events.
 
-### *Freelancer*, [Reader daily](https://github.com/gorillab/reader) (??? — Present)
+### *Full-stack*, [Reader daily](https://github.com/gorillab/reader) (??? — Present)
 
 
 A customizable feeds reader on web, mobile, messenger bot and even terminal platforms.
@@ -71,6 +71,7 @@ A customizable feeds reader on web, mobile, messenger bot and even terminal plat
 ## EDUCATION
 
 ### [Van Lang University](http://www.vanlanguni.edu.vn/) (2010-07 — 2014-07)
+
 
 
 

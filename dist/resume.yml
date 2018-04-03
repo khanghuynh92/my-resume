@@ -8,7 +8,7 @@ info:
   brief: 'Pragmatic software developer with a passion for delivering <em>delightful</em> user experiences.Seeking to expand my skills and work on meaningful projects. I enjoy hacking on side projects, photography, and travelling.'
   quote: 'Be the change you want to see in the world.'
 contact:
-  website: 'http://khanghuynh92.github.io'
+  website: 'http://khanghuynh92.github.io/'
   phone: '+84 0909050792'
   email: khanghuynh92@gmail.com
 location:
@@ -20,7 +20,7 @@ projects:
   -
     title: VmeetPlus
     category: 'Video Conference'
-    role: Full-stack
+    role: 'Web Developer'
     start: 2014-07
     end: 2015-09
     summary: 'Video chat, voice call and text chat with whiteboard and screen sharing features on website.'
@@ -35,73 +35,99 @@ projects:
   -
     title: 'Moodle plugin'
     category: Education
-    role: Backend
+    role: 'Web Developer'
     start: 2015-09
     end: 2016-06
     summary: 'Moodle plugin for video conference, live stream, vod, text chat'
     keywords:
-      - Php
+      - PHP
       - 'Moodle plugin'
       - Javascript
       - XMPP
+      - LAMP
   -
-    title: Uteachme
+    title: TeleTeach
     category: Education
     role: Full-stack
     start: 2016-10
-    summary: 'Online learning and teaching'
+    summary: 'E-Learning Solution, fulfill the needs for diversified network teaching and mobile learning.'
     keywords:
       - Python
-      - React.js
+      - ReactJs
+      - Bootstrap
+      - Mysql
+      - Redis
+      - REST
+      - 'Elastic Search'
   -
     title: 'Vmeet Web Service'
     category: 'Web service'
-    role: backend
+    role: Backend
     start: 2017-04
     summary: 'Providing api service served to end users or third-party apps/services'
     keywords:
       - Node.js
       - Restful
       - Canssandara
+      - Docker
+      - Redis
+      - Python
+      - Mysql
+      - REST
+      - 'Elastic Search'
   -
     title: 'SF Call Center'
     category: 'Web service'
-    role: backend
+    role: Backend
     start: 2016-12
     summary: 'Providing solutions across multiple channels and devices for better customer experience'
     keywords:
-      - Node.js
-      - Angular.js
+      - NodeJs
+      - AngularJs
       - MongoDb
+      - REST
+      - Bootstrap
+      - 'Elastic Search'
   -
     title: Ishopmgt
-    category: freelancer
-    role: Freelancer
+    category: Freelancer
+    role: Full-stack
     summary: 'System includes customer, product, shipper, order and package management, sale tracking, revenue reporting.. '
     url: 'http://ishopmgt.gorillab.co'
     keywords:
-      - Angular.js
-      - Node.js
-      - Mongodb
+      - AngularJs
+      - NodeJs
+      - MySql
+      - REST
   -
     title: 'Winwheel game'
-    category: freelancer
-    role: Freelancer
+    category: Freelancer
+    role: Full-stack
     summary: 'System providing lucky draw services for events.'
     url: 'http://winwheel.gorillab.co'
     keywords:
-      - Angular.js
-      - Node.js
+      - AngularJs
+      - NodeJs
       - Mongodb
+      - Canvas
+      - REST
   -
     title: 'Reader daily'
-    category: Freelancer
-    role: Freelancer
+    category: Opensource
+    role: Full-stack
     url: 'https://github.com/gorillab/reader'
     summary: 'A customizable feeds reader on web, mobile, messenger bot and even terminal platforms.'
     keywords:
       - Mongodb
-      - Node.js
+      - NodeJs
+      - Docker
+      - Microservices
+      - Bootstrap
+      - Cronjob
+      - React
+      - REST
+      - Nginx
+      - 'Web Srawler'
 social:
   -
     label: GitHub
@@ -119,7 +145,7 @@ social:
     user: khanghuynh92
     url: 'https://www.facebook.com/profile.php?id=100008787426754'
 employment:
-  summary: '2+ years industry IT and software development experience.'
+  summary: '3+ years industry IT and web development experience.'
   history:
     -
       employer: 'Softfoundry Technology Pte Ltd'
@@ -127,25 +153,12 @@ employment:
       position: 'Web Fullstacker'
       summary: 'Softfoundry is the world leader for High Definition Telepresence and Collaboration solutions for the managed and secured network used in Governments, enterprises, financial/insurance ,healthcare, education, carriers and ISP. Based on Patented advanced video communication technology supporting multi-HD,multi-codec, multi-applications carrier-class platform.'
       start: 2014-07
-      keywords:
-        - Agile
-        - Php
-        - Python
-        - Javascript
-        - NoSQL
-        - MySQL
-        - Linux
-        - Windows
     -
       employer: Gorillab
       url: 'https://gorillab.co/'
       position: Freelancer
       summary: 'Freelancer web developer along with a great team'
       start: 2016-07
-      keywords:
-        - Agile
-        - TFS
-        - Javascript
 education:
   summary: ""
   level: degree
@@ -157,7 +170,7 @@ education:
       url: 'http://www.vanlanguni.edu.vn/'
       start: 2010-07
       end: 2014-07
-      grade: '6.8'
+      grade: '7.4'
 skills:
   sets:
     -
@@ -165,33 +178,41 @@ skills:
       level: intermediate
       skills:
         - JavaScript
-        - 'HTML 5'
+        - HTML
         - CSS
         - LAMP
+        - Bootstrap
         - MVC
         - REST
         - PHP
         - Python
         - NodeJS
+        - Docker
+        - Redis
+        - Memcached
+        - 'Elastic Search'
+        - Nginx
+        - Microservices
     -
       name: JavaScript
       level: advanced
       skills:
-        - Node.js
-        - Angular.js
+        - NodeJs
         - jQuery
-        - Bootstrap
-        - React.js
+        - AngularJs
+        - ReactJs
     -
       name: Database
       level: intermediate
       skills:
         - MySQL
-        - NoSQL
-        - ORM
+        - Mongodb
+        - Redis
+        - 'Elastic Search'
+        - Memcached
     -
       name: Project
-      level: beginner
+      level: intermediate
       skills:
         - Agile
         - TFS

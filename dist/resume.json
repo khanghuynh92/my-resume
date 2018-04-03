@@ -1,17 +1,13 @@
 {
   "basics": {
-    "name": "Khang Huynh",
     "label": "Fullstacker",
-    "summary": "Pragmatic software developer with a passion for delivering <em>delightful</em> user experiences.Seeking to expand my skills and work on meaningful projects. I enjoy hacking on side projects, photography, and travelling.",
-    "website": "http://khanghuynh92.github.io",
+    "characterClass": "Programmer",
+    "quote": "Be the change you want to see in the world.",
+    "website": "http://khanghuynh92.github.io/",
     "phone": "+84 0909050792",
     "email": "khanghuynh92@gmail.com",
-    "location": {
-      "address": "from Sai Gon",
-      "postalCode": "700000",
-      "city": "Ho Chi Minh",
-      "countryCode": "VN"
-    },
+    "name": "Khang Huynh",
+    "summary": "Pragmatic software developer with a passion for delivering <em>delightful</em> user experiences.Seeking to expand my skills and work on meaningful projects. I enjoy hacking on side projects, photography, and travelling.",
     "profiles": [
       {
         "network": "GitHub",
@@ -49,7 +45,7 @@
   "education": [
     {
       "institution": "Van Lang University",
-      "gpa": "6.8",
+      "gpa": "7.4",
       "startDate": "2010-07",
       "endDate": "2014-07"
     }
@@ -60,25 +56,31 @@
       "level": "intermediate",
       "keywords": [
         "JavaScript",
-        "HTML 5",
+        "HTML",
         "CSS",
         "LAMP",
+        "Bootstrap",
         "MVC",
         "REST",
         "PHP",
         "Python",
-        "NodeJS"
+        "NodeJS",
+        "Docker",
+        "Redis",
+        "Memcached",
+        "Elastic Search",
+        "Nginx",
+        "Microservices"
       ]
     },
     {
       "name": "JavaScript",
       "level": "advanced",
       "keywords": [
-        "Node.js",
-        "Angular.js",
+        "NodeJs",
         "jQuery",
-        "Bootstrap",
-        "React.js"
+        "AngularJs",
+        "ReactJs"
       ]
     },
     {
@@ -86,13 +88,15 @@
       "level": "intermediate",
       "keywords": [
         "MySQL",
-        "NoSQL",
-        "ORM"
+        "Mongodb",
+        "Redis",
+        "Elastic Search",
+        "Memcached"
       ]
     },
     {
       "name": "Project",
-      "level": "beginner",
+      "level": "intermediate",
       "keywords": [
         "Agile",
         "TFS",

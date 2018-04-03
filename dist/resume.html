@@ -17,13 +17,13 @@
             }
             
             body {
-              font-family: 'Helvetica Neue', 'Helvetica', 'Segoe UI', 'Calibri', 'sans-serif';
               font-size: 15px;
               color: #333;
               line-height: 1.42857143;
               background-color: #F0F0F0;
               margin: 0;
               padding: 0;
+              font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Segoe UI', 'Calibri', 'sans-serif';
             }
             
             /* Typical page borders are awkward when rendered to PDF. */
@@ -54,18 +54,23 @@
             }
             
             #main > #container > section {
-              margin-left: 5em;
+              margin-left: 150px;
               position: relative;
               display: block;
             }
             
+            section > div {
+              margin-bottom: 60px;
+            }
+            
             span.fa
             {
+              font-size: 56px;
               position: absolute;
-              top: 4px;
-              left: -50px;
-              font-size: 30px;
-              color: #BFC1C3;
+              top: 37px;
+              transform: translateY(-50%);
+              left: -100px;
+              color: #1a4367;
             }
             
             hr {
@@ -82,13 +87,16 @@
             h1 {
               margin: 0;
               font-size: 46px;
+              display: inline-block;
             }
             
             h2 {
-              font-size: 24px;
-              color: #BFC1C3;
+              font-size: 30px;
+              color: #4376a2;
               text-transform: uppercase;
               font-weight: normal;
+              padding-top: 20px;
+              margin-bottom: 60px;
             }
             
             h3 {
@@ -111,20 +119,53 @@
               font-weight: bold;
             }
             
+            #summary {
+              font-size: 150%;
+              margin-left: 0;
+              padding: 20px 0;
+            }
+            
             #summary > p > strong {
               font-size: 1.25em;
+            }
+            
+            #contact {
+              float: right;
+            }
+            
+            #summary > header > .fa-info {
+              font-size: 70px;
+              letter-spacing: 5px;
+              text-transform: uppercase;
+              font-weight: normal;
+              top: 50%;
+              left: -85px;
+              transform: translateY(-50%);
+            }
+            
+            #summary h2 {
+              display: none;
             }
             
             
             .label-keyword {
               display: inline-block;
-              background: #7eb0db;
-              color: white;
+              background: #e8f4ff;
+              color: black;
               font-size: 0.9em;
               padding: 5px;
               border: 1px solid #357ebd;
               border-radius: 5px;
               margin-top: 2px;
+              font-weight: bold;
+              text-align: center;
+            }
+            
+            .notes {
+              font-size: 10px;
+              display: block;
+              font-weight: normal;
+              text-transform: uppercase;
             }
             
             .card-skills {
@@ -181,6 +222,12 @@
                 margin-left: 20px;
               }
             }
+            .skill-info > strong {
+              font-weight: 400;
+              font-size: 24px;
+              color: #1d1d1d;
+              line-height: 24px;
+            }
             
             .list-unstyled {
               padding-left: 0;
@@ -192,7 +239,7 @@
             }
             
             .space-top {
-                margin-top: 10px;
+                margin-top: 5px;
             }
             
             #container {
@@ -219,12 +266,11 @@
             <div id="container">
                 <header>
                      <h1>Khang Huynh</h1>
-
                     <div id="contact">
                         <div class="email"><a href="mailto:khanghuynh92@gmail.com">khanghuynh92@gmail.com</a>
                         </div>
                         <div class="phone">+84 0909050792</div>
-                        <div class="website"><a href="http://khanghuynh92.github.io">http://khanghuynh92.github.io</a>
+                        <div class="website"><a href="http://khanghuynh92.github.io/">http://khanghuynh92.github.io/</a>
                         </div>
                     </div>
                 </header>
@@ -240,29 +286,46 @@
                 <section id="skills">
                     <header>
                          <h2>Skills</h2>
-
                     </header> <span class="fa fa-lg fa-code"></span>
-
                     <ul class="list-unstyled">
                         <li class="card card-nested card-skills">
                             <div class="skill-level" rel="tooltip" title="intermediate" data-placement="left">
                                 <div class="skill-progress intermediate"></div>
                             </div>
                             <div class="skill-info"> <strong>Web Development</strong>
-
-                                <div class="space-top labels"> <span class="label label-keyword">JavaScript</span>
- <span class="label label-keyword">HTML 5</span>
-
-                                    <span
-                                    class="label label-keyword">CSS</span> <span class="label label-keyword">LAMP</span>
- <span class="label label-keyword">MVC</span>
-
-                                        <span
-                                        class="label label-keyword">REST</span> <span class="label label-keyword">PHP</span>
- <span class="label label-keyword">Python</span>
-
-                                            <span
-                                            class="label label-keyword">NodeJS</span>
+                                <div class="space-top labels">
+                                    <div class="label label-keyword"> <span class="kw">JavaScript</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">HTML</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">CSS</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">LAMP</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">Bootstrap</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">MVC</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">REST</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">PHP</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">Python</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">NodeJS</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">Docker</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">Redis</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">Memcached</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">Elastic Search</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">Nginx</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">Microservices</span>
+                                    </div>
                                 </div>
                             </div>
                         </li>
@@ -271,14 +334,15 @@
                                 <div class="skill-progress advanced"></div>
                             </div>
                             <div class="skill-info"> <strong>JavaScript</strong>
-
-                                <div class="space-top labels"> <span class="label label-keyword">Node.js</span>
- <span class="label label-keyword">Angular.js</span>
-
-                                    <span
-                                    class="label label-keyword">jQuery</span> <span class="label label-keyword">Bootstrap</span>
- <span class="label label-keyword">React.js</span>
-
+                                <div class="space-top labels">
+                                    <div class="label label-keyword"> <span class="kw">NodeJs</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">jQuery</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">AngularJs</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">ReactJs</span>
+                                    </div>
                                 </div>
                             </div>
                         </li>
@@ -287,27 +351,34 @@
                                 <div class="skill-progress intermediate"></div>
                             </div>
                             <div class="skill-info"> <strong>Database</strong>
-
-                                <div class="space-top labels"> <span class="label label-keyword">MySQL</span>
- <span class="label label-keyword">NoSQL</span>
-
-                                    <span
-                                    class="label label-keyword">ORM</span>
+                                <div class="space-top labels">
+                                    <div class="label label-keyword"> <span class="kw">MySQL</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">Mongodb</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">Redis</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">Elastic Search</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">Memcached</span>
+                                    </div>
                                 </div>
                             </div>
                         </li>
                         <li class="card card-nested card-skills">
-                            <div class="skill-level" rel="tooltip" title="beginner" data-placement="left">
-                                <div class="skill-progress beginner"></div>
+                            <div class="skill-level" rel="tooltip" title="intermediate" data-placement="left">
+                                <div class="skill-progress intermediate"></div>
                             </div>
                             <div class="skill-info"> <strong>Project</strong>
-
-                                <div class="space-top labels"> <span class="label label-keyword">Agile</span>
- <span class="label label-keyword">TFS</span>
-
-                                    <span
-                                    class="label label-keyword">GitHub</span> <span class="label label-keyword">Gitlab</span>
-
+                                <div class="space-top labels">
+                                    <div class="label label-keyword"> <span class="kw">Agile</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">TFS</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">GitHub</span>
+                                    </div>
+                                    <div class="label label-keyword"> <span class="kw">Gitlab</span>
+                                    </div>
                                 </div>
                             </div>
                         </li>
@@ -321,11 +392,10 @@
                     </header>
                     <div>
                          <h3><em>Web Fullstacker</em>,
-    <a href="http://www.softfoundry.com">Softfoundry Technology Pte Ltd</a>
-    </h3>
- <span class="tenure">2014-07 — Present</span>
-| <span class="keywords">Agile Php Python Javascript NoSQL MySQL Linux Windows </span>
 
+    <a href="http://www.softfoundry.com">Softfoundry Technology Pte Ltd</a>
+
+    </h3> <span class="tenure">2014-07 — Present</span>
                         <p>
                             <p>Softfoundry is the world leader for High Definition Telepresence and Collaboration
                                 solutions for the managed and secured network used in Governments, enterprises,
@@ -336,11 +406,10 @@
                     </div>
                     <div>
                          <h3><em>Freelancer</em>,
-    <a href="https://gorillab.co/">Gorillab</a>
-    </h3>
- <span class="tenure">2016-07 — Present</span>
-| <span class="keywords">Agile TFS Javascript </span>
 
+    <a href="https://gorillab.co/">Gorillab</a>
+
+    </h3> <span class="tenure">2016-07 — Present</span>
                         <p>
                             <p>Freelancer web developer along with a great team</p>
                         </p>
@@ -354,90 +423,86 @@
                     </header>
                     <div>
                         
-<h3><em>Full-stack</em>,
+<h3><em>Web Developer</em>,
+
 VmeetPlus
+
 </h3>
-
-<span class="tenure">2014-07 — 2015-09</span>
-| <span class="keywords">HTML CSS Javascript Canvas LAMP PHP XMPP </span>
-
+<span class="tenure">2014-07 — 2015-09</span>| <span class="keywords">HTML CSS Javascript Canvas LAMP PHP XMPP </span>
                         <p>Video chat, voice call and text chat with whiteboard and screen sharing
                             features on website.</p>
                     </div>
                     <div>
                         
-<h3><em>Backend</em>,
+<h3><em>Web Developer</em>,
+
 Moodle plugin
+
 </h3>
-
-<span class="tenure">2015-09 — 2016-06</span>
-| <span class="keywords">Php Moodle plugin Javascript XMPP </span>
-
+<span class="tenure">2015-09 — 2016-06</span>| <span class="keywords">PHP Moodle plugin Javascript XMPP LAMP </span>
                         <p>Moodle plugin for video conference, live stream, vod, text chat</p>
                     </div>
                     <div>
                         
 <h3><em>Full-stack</em>,
-Uteachme
+
+TeleTeach
+
 </h3>
-
-<span class="tenure">2016-10 — Present</span>
-| <span class="keywords">Python React.js </span>
-
-                        <p>Online learning and teaching</p>
+<span class="tenure">2016-10 — Present</span>| <span class="keywords">Python ReactJs Bootstrap Mysql Redis REST Elastic Search </span>
+                        <p>E-Learning Solution, fulfill the needs for diversified network teaching
+                            and mobile learning.</p>
                     </div>
                     <div>
                         
 <h3><em>Backend</em>,
+
 Vmeet Web Service
+
 </h3>
-
-<span class="tenure">2017-04 — Present</span>
-| <span class="keywords">Node.js Restful Canssandara </span>
-
+<span class="tenure">2017-04 — Present</span>| <span class="keywords">Node.js Restful Canssandara Docker Redis Python Mysql REST Elastic Search </span>
                         <p>Providing api service served to end users or third-party apps/services</p>
                     </div>
                     <div>
                         
 <h3><em>Backend</em>,
+
 SF Call Center
+
 </h3>
-
-<span class="tenure">2016-12 — Present</span>
-| <span class="keywords">Node.js Angular.js MongoDb </span>
-
+<span class="tenure">2016-12 — Present</span>| <span class="keywords">NodeJs AngularJs MongoDb REST Bootstrap Elastic Search </span>
                         <p>Providing solutions across multiple channels and devices for better customer
                             experience</p>
                     </div>
                     <div>
                         
-<h3><em>Freelancer</em>,
+<h3><em>Full-stack</em>,
+
 <a href="http://ishopmgt.gorillab.co">Ishopmgt</a>
+
 </h3>
-
-<span class="keywords">Angular.js Node.js Mongodb </span>
-
+<span class="keywords">AngularJs NodeJs MySql REST </span>
                         <p>System includes customer, product, shipper, order and package management,
                             sale tracking, revenue reporting..</p>
                     </div>
                     <div>
                         
-<h3><em>Freelancer</em>,
+<h3><em>Full-stack</em>,
+
 <a href="http://winwheel.gorillab.co">Winwheel game</a>
+
 </h3>
-
-<span class="keywords">Angular.js Node.js Mongodb </span>
-
+<span class="keywords">AngularJs NodeJs Mongodb Canvas REST </span>
                         <p>System providing lucky draw services for events.</p>
                     </div>
                     <div>
                         
-<h3><em>Freelancer</em>,
+<h3><em>Full-stack</em>,
+
 <a href="https://github.com/gorillab/reader">Reader daily</a>
+
 </h3>
-
-<span class="keywords">Mongodb Node.js </span>
-
+<span class="keywords">Mongodb NodeJs Docker Microservices Bootstrap Cronjob React REST Nginx Web Srawler </span>
                         <p>A customizable feeds reader on web, mobile, messenger bot and even terminal
                             platforms.</p>
                     </div>
@@ -451,11 +516,11 @@ SF Call Center
                     <div>
                         
 <h3><em>Bachelor Information Technology</em>,
+
 <a href="http://www.vanlanguni.edu.vn/">Van Lang University</a>
+
 </h3>
-
 <span class="tenure">2010-07 — 2014-07</span>
-
                     </div>
                 </section>
             </div>

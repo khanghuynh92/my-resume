@@ -1,17 +1,20 @@
 Khang Huynh
 Email: khanghuynh92@gmail.com
 Tel: +84 0909050792
-Web: http://khanghuynh92.github.io
+Web: http://khanghuynh92.github.io/
 ================================================================================
+
 
 Pragmatic software developer with a passion for delivering <em>delightful</em> user experiences.Seeking to expand my skills and work on meaningful projects. I enjoy hacking on side projects, photography, and travelling.
 
+
 SKILLS -------------------------------------------------------------------------
 
-- Web Development: JavaScript HTML 5 CSS LAMP MVC REST PHP Python NodeJS 
-- JavaScript: Node.js Angular.js jQuery Bootstrap React.js 
-- Database: MySQL NoSQL ORM 
+- Web Development: JavaScript HTML CSS LAMP Bootstrap MVC REST PHP Python NodeJS Docker Redis Memcached Elastic Search Nginx Microservices 
+- JavaScript: NodeJs jQuery AngularJs ReactJs 
+- Database: MySQL Mongodb Redis Elastic Search Memcached 
 - Project: Agile TFS GitHub Gitlab 
+
 
 EMPLOYMENT ---------------------------------------------------------------------
 
@@ -24,35 +27,35 @@ Freelancer web developer along with a great team
 
 PROJECTS -----------------------------------------------------------------------
 
-VmeetPlus, Full-stack (2014-07 — 2015-09)
+VmeetPlus, Web Developer (2014-07 — 2015-09)
 
 Video chat, voice call and text chat with whiteboard and screen sharing features on website.
 
-Moodle plugin, Backend (2015-09 — 2016-06)
+Moodle plugin, Web Developer (2015-09 — 2016-06)
 
 Moodle plugin for video conference, live stream, vod, text chat
 
-Uteachme, Full-stack (2016-10 — Present)
+TeleTeach, Full-stack (2016-10 — Present)
 
-Online learning and teaching
+E-Learning Solution, fulfill the needs for diversified network teaching and mobile learning.
 
-Vmeet Web Service, backend (2017-04 — Present)
+Vmeet Web Service, Backend (2017-04 — Present)
 
 Providing api service served to end users or third-party apps/services
 
-SF Call Center, backend (2016-12 — Present)
+SF Call Center, Backend (2016-12 — Present)
 
 Providing solutions across multiple channels and devices for better customer experience
 
-Ishopmgt, Freelancer (??? — Present)
+Ishopmgt, Full-stack (??? — Present)
 
 System includes customer, product, shipper, order and package management, sale tracking, revenue reporting.. 
 
-Winwheel game, Freelancer (??? — Present)
+Winwheel game, Full-stack (??? — Present)
 
 System providing lucky draw services for events.
 
-Reader daily, Freelancer (??? — Present)
+Reader daily, Full-stack (??? — Present)
 
 A customizable feeds reader on web, mobile, messenger bot and even terminal platforms.
 
@@ -61,6 +64,7 @@ A customizable feeds reader on web, mobile, messenger bot and even terminal plat
 EDUCATION ----------------------------------------------------------------------
 
 Van Lang University (2010-07 — 2014-07)
+
 
 
 
