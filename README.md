@@ -77,6 +77,6 @@ Work email: phat.pham9@gmail.com
 
 ## INTERESTS
 
-- PHOTOGRAPHY
+- CODING IN MY FREETIME
 
 - TRAVELLING
