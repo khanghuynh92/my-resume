@@ -1,7 +1,7 @@
 Khang Huynh
 ============
 Email: khanghuynh92@gmail.com
-Tel: +84 0909050792
+Tel: +84 09090507
 Web: http://khanghuynh92.github.io/
 
 I'm passion about building awesome products, also rock in Javasript/Node.js and hacking on side projects.
